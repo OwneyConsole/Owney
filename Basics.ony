@@ -1,0 +1,5 @@
+[Basics]
+#Basics Pack For Owney
+#You Can Add A Comment To A DataBase Script By Adding # To The First Of Line
+#Use @ To Teach It.
+@echo-Console.Write("Hello");
